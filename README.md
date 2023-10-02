@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeet282000&label=Profile%20views&color=0e75b6&style=flat" alt="sujeet282000" /> </p>
 
-🔭 I’m currently working on on an Exciting Sarthi App
+- 🔭 I’m currently working on on an Exciting Sarthi App
 
-👨‍💻 All of my projects are available at my Portfolio Site 👆
+- 👨‍💻 All of my projects are available at my Portfolio Site 👆
 
-📝 I regularly write articles on hashnode 👆
+- 📝 I regularly write articles on hashnode 👆
 
-💬 Ask me about react, Javascript , DSA, MERN
+- 💬 Ask me about react, Javascript , DSA, MERN
 
-📫 How to reach me sujeetvishvkarma2@gmail.com
+- 📫 How to reach me sujeetvishvkarma2@gmail.com
 
-📄  Get my resume on Portfolio. 👆
+- 📄  Get my resume on Portfolio. 👆
 
-⚡ Fun fact too Lazy😴
+- ⚡ Fun fact too Lazy😴
 
 ### Blogs posts
 🔥Exploring the Power of Express.js: Simplifying Web Development
