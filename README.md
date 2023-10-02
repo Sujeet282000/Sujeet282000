@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeet282000&label=Profile%20views&color=0e75b6&style=flat" alt="sujeet282000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujeet282000" alt="sujeet282000" /></a> </p>
-
 🔭 I’m currently working on on an Exciting Sarthi App
 
 👨‍💻 All of my projects are available at my Portfolio Site 👆
