@@ -20,6 +20,7 @@
 ⚡ Fun fact too Lazy😴
 
 ### Blogs posts
+🔥Exploring the Power of Express.js: Simplifying Web Development
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
