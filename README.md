@@ -21,7 +21,7 @@
 
   <br>
 
-<h3 align="left"> 📚 Blog Posts:</h3>
+<h3 align="left"> 📚 Recent Blogs:</h3>
 
 - [🔥 Exploring the Power of Express.js: Simplifying Web Development](https://sujeet-vishvkarma.hashnode.dev/exploring-the-power-of-expressjs-simplifying-web-development)
 - [Apple Vision Pro - 🔥 The Game Changer](https://sujeet-vishvkarma.hashnode.dev/apple-vision-pro-the-game-changer)
