@@ -20,13 +20,13 @@
 
 - ⚡ Fun fact **too Lazy😴**
 <br>
-<h3 align="left">📚 Blogs posts</h3>
-<!-- BLOG-POST-LIST:START -->
-- [🔥Exploring the Power of Express.js: Simplifying Web Development](https://sujeet-vishvkarma.hashnode.dev/exploring-the-power-of-expressjs-simplifying-web-development)
-- [Apple Vision Pro - 🔥The Game Changer](https://sujeet-vishvkarma.hashnode.dev/apple-vision-pro-the-game-changer)
+### 📚 Blog Posts
+
+- [🔥 Exploring the Power of Express.js: Simplifying Web Development](https://sujeet-vishvkarma.hashnode.dev/exploring-the-power-of-expressjs-simplifying-web-development)
+- [Apple Vision Pro - 🔥 The Game Changer](https://sujeet-vishvkarma.hashnode.dev/apple-vision-pro-the-game-changer)
 - [Bard VS ChatGPT: The AI War](https://sujeet-vishvkarma.hashnode.dev/bard-vs-chatgpt-the-ai-war)
 - [How AI is Changing Our Lives, One Day at a Time](https://sujeet-vishvkarma.hashnode.dev/how-ai-is-changing-our-lives-one-day-at-a-time)
-<!-- BLOG-POST-LIST:END -->
+
 <br>
 <h3 align="left"> 🤝Connect with me:</h3>
 <p align="left">
