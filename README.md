@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sujeet Vishvkarma</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeet282000&label=Profile%20views&color=0e75b6&style=flat" alt="sujeet282000" /> </p>
 <h2> About Me<span> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 70px height='70px'></span></h2>
   <ul>
     
-- 🧑 I'm a passionate web developer and DevOps enthusiast who loves to create and contribute to open-source projects.
+- 🧑 I'm a passionate Full Stack developer and DevOps enthusiast who loves to create and contribute to open-source projects.
+- 
 - 🔭 I’m currently working on on an Exciting Sarthi App
 
 - 👨‍💻 All of my projects are available at my [Portfolio Site 👆](https://sujeetvishvkarma.webflow.io/)
@@ -20,7 +21,7 @@
 
 - ⚡ Fun fact **too Lazy😴**
 <br>
-### 📚 Blog Posts
+###<h3 align="left"> 📚 Blog Posts:</h3>
 
 - [🔥 Exploring the Power of Express.js: Simplifying Web Development](https://sujeet-vishvkarma.hashnode.dev/exploring-the-power-of-expressjs-simplifying-web-development)
 - [Apple Vision Pro - 🔥 The Game Changer](https://sujeet-vishvkarma.hashnode.dev/apple-vision-pro-the-game-changer)
