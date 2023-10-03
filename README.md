@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **too Lazy😴**.
 
-  
+  <br>
 
 <h3 align="left"> 📚 Blog Posts:</h3>
 
