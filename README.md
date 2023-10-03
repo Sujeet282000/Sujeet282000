@@ -6,20 +6,19 @@
   <ul>
     
 - 🧑 I'm a passionate Full Stack developer and DevOps enthusiast who loves to create and contribute to open-source projects.
-- 
-- 🔭 I’m currently working on on an Exciting Sarthi App
+- 🔭 I’m currently working on on an Exciting Sarthi App.
 
-- 👨‍💻 All of my projects are available at my [Portfolio Site 👆](https://sujeetvishvkarma.webflow.io/)
+- 👨‍💻 All of my projects are available at my [Portfolio Site 👆](https://sujeetvishvkarma.webflow.io/).
 
-- 📝 I regularly write articles on [hashnode 👆](https://sujeet-vishvkarma.hashnode.dev/)
+- 📝 I regularly write articles on [hashnode 👆](https://sujeet-vishvkarma.hashnode.dev/).
 
-- 💬 Ask me about react, Javascript , DSA, MERN
+- 💬 Ask me about **React, Javascript , DSA, MERN**.
 
-- 📫 How to reach me **yadavjayant2003@gmail.com**
+- 📫 How to reach me **sujeetvishvkarma2@gmail.com**.
 
-- 📄  Get my resume on [Portfolio 👆](https://sujeetvishvkarma.webflow.io/)
+- 📄  Get my resume on [Portfolio 👆](https://sujeetvishvkarma.webflow.io/).
 
-- ⚡ Fun fact **too Lazy😴**
+- ⚡ Fun fact **too Lazy😴**.
 <br>
 ###<h3 align="left"> 📚 Blog Posts:</h3>
 
