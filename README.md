@@ -5,21 +5,24 @@
 
 - 🔭 I’m currently working on on an Exciting Sarthi App
 
-- 👨‍💻 All of my projects are available at my Portfolio Site 👆
+- 👨‍💻 All of my projects are available at my [Portfolio Site 👆](https://sujeetvishvkarma.webflow.io/)
 
-- 📝 I regularly write articles on hashnode 👆
+- 📝 I regularly write articles on [hashnode 👆](https://sujeet-vishvkarma.hashnode.dev/)
 
 - 💬 Ask me about react, Javascript , DSA, MERN
 
-- 📫 How to reach me sujeetvishvkarma2@gmail.com
+- 📫 How to reach me **yadavjayant2003@gmail.com**
 
-- 📄  Get my resume on Portfolio. 👆
+- 📄  Get my resume on [Portfolio 👆](https://sujeetvishvkarma.webflow.io/)
 
-- ⚡ Fun fact too Lazy😴
+- ⚡ Fun fact **too Lazy😴**
 
 ### Blogs posts
-🔥Exploring the Power of Express.js: Simplifying Web Development
 <!-- BLOG-POST-LIST:START -->
+- [🔥Exploring the Power of Express.js: Simplifying Web Development](https://sujeet-vishvkarma.hashnode.dev/exploring-the-power-of-expressjs-simplifying-web-development)
+- [Apple Vision Pro - 🔥The Game Changer](https://sujeet-vishvkarma.hashnode.dev/apple-vision-pro-the-game-changer)
+- [Bard VS ChatGPT: The AI War](https://sujeet-vishvkarma.hashnode.dev/bard-vs-chatgpt-the-ai-war)
+- [How AI is Changing Our Lives, One Day at a Time](https://sujeet-vishvkarma.hashnode.dev/how-ai-is-changing-our-lives-one-day-at-a-time)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
