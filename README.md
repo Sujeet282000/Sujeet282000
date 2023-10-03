@@ -22,7 +22,7 @@
 
   
 
-##<h3 align="left"> 📚 Blog Posts:</h3>
+<h3 align="left"> 📚 Blog Posts:</h3>
 <!-- BLOG-POST-LIST:START -->
 - [🔥 Exploring the Power of Express.js: Simplifying Web Development](https://sujeet-vishvkarma.hashnode.dev/exploring-the-power-of-expressjs-simplifying-web-development)
 - [Apple Vision Pro - 🔥 The Game Changer](https://sujeet-vishvkarma.hashnode.dev/apple-vision-pro-the-game-changer)
@@ -47,7 +47,6 @@
 
 <br>
 <h3 align="left"> 💼 Support:</h3>
-<hr>
 <p><a href="https://www.buymeacoffee.com/vishsujeetj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sujeet.vishvkarma@paytm" /></a></p><br><br>
 
 <br>
