@@ -28,6 +28,7 @@
 - [Apple Vision Pro - 🔥 The Game Changer](https://sujeet-vishvkarma.hashnode.dev/apple-vision-pro-the-game-changer)
 - [Bard VS ChatGPT: The AI War](https://sujeet-vishvkarma.hashnode.dev/bard-vs-chatgpt-the-ai-war)
 - [How AI is Changing Our Lives, One Day at a Time](https://sujeet-vishvkarma.hashnode.dev/how-ai-is-changing-our-lives-one-day-at-a-time)
+
   <!-- BLOG-POST-LIST:END -->
 
 <br>
