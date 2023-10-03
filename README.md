@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeet282000&label=Profile%20views&color=0e75b6&style=flat" alt="sujeet282000" /> </p>
 <h2> About Me<span> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 70px height='70px'></span></h2>
-  <ul>
-    
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+  
 - 🧑 I'm a passionate Full Stack developer and DevOps enthusiast who loves to create and contribute to open-source projects.
 - 🔭 I’m currently working on on an Exciting Sarthi App.
 
