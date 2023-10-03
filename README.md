@@ -49,7 +49,7 @@
 <h3 align="left">📊GitHub Stats:</h3> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeet282000&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&locale=en" alt="sujeet282000" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=sujeet282000&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&locale=en" alt="sujeet282000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeet282000&theme=tokyonight&hide_border=true&include_all_commits=" alt="sujeet282000" /></p>
 
 
 
