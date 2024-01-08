@@ -42,7 +42,7 @@
 <a href="https://twitter.com/sujeetvish61680" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujeetvish61680" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sujeet-vishvkarma-948a67217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sujeet-vishvkarma-948a67217/" height="30" width="40" /></a>
 <a href = 'https://sujeet-vishvkarma.hashnode.dev/'> <img width = '32px' align= 'center' src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"/></a>
-<a href="[https://dev.to/https://dev.to/sujeet](https://dev.to/sujeet)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sujeet" height="30" width="40" /></a>
+<a href="https://dev.to/sujeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sujeet" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vishsujeet2806/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vishsujeet2806/practice" height="30" width="40" /></a>
 </p>
 <br>
